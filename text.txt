@@ -1,0 +1,17 @@
+Cors:
+    Cors stands for Cross Origin Resource Sharing.
+    It is allows us to Connect the the Backend with FrontEnd which are running on Different Ports,
+    It is used to Pass the Data from Backend to FrontEnd.
+    We Can Call the Api in useEFfect in FunctionalComponent.
+    In Class Component we can get that API in Component Did Mount.
+
+   CORS stands for
+    cross origin resource sharing:
+    cors is a module that helps use to share the data between two application running on two different port numbers
+
+
+cors is a module or npm library which allows two apps communicate with each other inorder to send or recieve 
+data which are running on different domains or origins
+
+when we use cors in local system then cors allows two applictions running on two different ports to 
+comunicate between them
